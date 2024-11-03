@@ -93,6 +93,7 @@ end
 -- Initialize the list of allowed user IDs
 local allowedUserIds = {
     "7494421921", -- Gegehonly2
+    "176010631", -- Duplicate_gamingyt
 
 
 
